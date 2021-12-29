@@ -3,6 +3,8 @@
  Consiste na implementação de um sistema para registro de entrada e saída do funcionário
  durante sua jornada de trabalho.
  
+ Nota avaliativa: 9.5
+ 
  Enunciado:
  
  Você deve construir o sistema de marcação de ponto de sua empresa. O sistema deve conter uma interface de navegação, onde o funcionário pode marcar o horário em que entrou no trabalho (digitando a hora, minuto e segundo); o horário em que bateu o ponto pra entrar no almoço; quando bateu o ponto pra voltar do almoço; e quando bateu o ponto da saída.
